@@ -1,16 +1,29 @@
-# React + Vite
+# 💻 Portfólio de Engenharia de Computação - Enzo Augusto do Couto
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu repositório de portfólio profissional. Este projeto foi desenvolvido para centralizar e demonstrar minhas competências em desenvolvimento de software, análise de dados e sistemas embarcados.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologias Utilizadas
+- **Front-end:** React.js, Tailwind CSS e Vite.
+- **Back-end & Dados:** Python (FastAPI, Django), Scikit-Learn e Pandas.
+- **Infraestrutura:** Docker e GitHub Actions (CI/CD).
+- **Banco de Dados:** PostgreSQL, MongoDB e Neo4j.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 Projetos em Destaque
 
-## React Compiler
+### 🚗 CarPricePredict (Machine Learning)
+Desenvolvimento de um modelo preditivo para estimativa de preços de veículos usados, comparando modelos de Regressão Linear e Random Forest, alcançando um R² de 0.96.
+* **Techs:** Python, Scikit-Learn, Pandas, Seaborn.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 💰 EcoWallet (Full-Stack)
+Aplicação de gestão financeira pessoal com backend em FastAPI, banco PostgreSQL e containerização total via Docker.
+* **Techs:** Python, FastAPI, Docker, CI/CD, React.
 
-## Expanding the ESLint configuration
+### 🌿 SmartGrow (IoT/Hardware)
+Trabalho de Conclusão de Curso focado em automação de cultivo indoor utilizando integração de hardware e software para monitoramento em tempo real.
+* **Techs:** Python, ESP32, C++, IoT.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 💼 Experiência Profissional
+- **Huawei (INATEL):** Atuação como Estagiário de Qualidade em infraestrutura de telecomunicações, garantindo padrões rigorosos de projeto e conformidade técnica.
+
+---
+Desenvolvido por [Enzo Augusto do Couto](https://www.linkedin.com/in/enzo-couto/) 🚀
